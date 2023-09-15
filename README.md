@@ -82,3 +82,10 @@ Space Invasion incorporates several design patterns to enhance code structure an
 - This project demonstrates the exciting world of Python programming and game development.
 
 Enjoy Space Invasion and have a blast defending Earth from the alien invasion! Feel free to contribute to the project or share your feedback with us.
+
+## Images
+
+<img src=".\assets\images\imagen_inicial.PNG">
+<img src=".\assets\images\Imagen_movimiento.PNG">
+<img src=".\assets\images\Juego con balas! .png">
+<img src=".\assets\images\Game Over Screen.PNG">
